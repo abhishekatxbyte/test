@@ -1,0 +1,11 @@
+{
+  "title": "c'est le titre de about.json",
+  "sunTitle": "c'est le sous-titre de about.json",
+  "button": "c'est le bouton d'about.json",
+  "nested": {
+    "nested1": "c'est un livel imbriqué",
+    "nested2": {
+      "nested01": "c'est deux niveaux imbriqués"
+    }
+  }
+}

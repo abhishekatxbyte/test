@@ -1,0 +1,11 @@
+{
+  "title": "this is the title from about.json",
+  "sunTitle": "this is the subtitle from about.json",
+  "button": "this is button from about.json",
+  "nested": {
+    "nested1": "this is one livel nested",
+    "nested2": {
+      "nested01": "this is two level nested"
+    }
+  }
+}

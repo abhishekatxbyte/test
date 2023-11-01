@@ -1,0 +1,11 @@
+{
+  "title": "this is the title from index.js",
+  "sunTitle": "this is the subtitle from index.js",
+  "button": "this is button from index.js",
+  "nested": {
+    "nested1": "this is one livel nested",
+    "nested2": {
+      "nested01": "this is two level nested"
+    }
+  }
+}

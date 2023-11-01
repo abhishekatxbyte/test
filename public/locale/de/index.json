@@ -1,0 +1,11 @@
+{
+  "title": "Dies ist der Titel von index.js",
+  "sunTitle": "Dies ist der Untertitel von index.js",
+  "button": "Dies ist die Schaltfläche von index.js",
+  "nested": {
+    "nested1": "Dies ist eine lebendige Verschachtelung",
+    "nested2": {
+      "nested01": "Dies ist zweistufig verschachtelt"
+    }
+  }
+}
